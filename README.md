@@ -1,6 +1,10 @@
 # material_calc
 material_calc is an windows app made with Flutter (Dart)
 
+## Features
+- working calculator
+- material you (V3)
+
 ## Downloading
 You can download the program from [Releases](https://github.com/moxi-u7/material_calc/releases/) Tab
 
