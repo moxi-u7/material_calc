@@ -1,5 +1,5 @@
 # material_calc
-material_calc is an windows app made with Flutter (Dart)
+material_calc is an windows app made with Flutter (Dart) for calculating stuff with good looks
 
 ## Features
 - working calculator
